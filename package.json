@@ -1,0 +1,24 @@
+{
+  "name": "nuxtapp",
+  "version": "1.0.0",
+  "description": "A nuxt application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElectronSz/NuxtApp.git"
+  },
+  "keywords": [
+    "Nuxt",
+    "VueJs",
+    "Express"
+  ],
+  "author": "ElectronSz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElectronSz/NuxtApp/issues"
+  },
+  "homepage": "https://github.com/ElectronSz/NuxtApp#readme"
+}
