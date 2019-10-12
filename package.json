@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "nuxt",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "post-update": "yarn upgrade --latest"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ElectronSz/NuxtApp/issues"
   },
-  "homepage": "https://github.com/ElectronSz/NuxtApp#readme"
+  "homepage": "https://github.com/ElectronSz/NuxtApp#readme",
+  "dependencies": {
+    "nuxt": "^2.10.1"
+  }
 }
