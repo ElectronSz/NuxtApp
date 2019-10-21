@@ -2,7 +2,7 @@
   <div>
     <h1>Welcome!</h1>
     <NLink to="/about">
-      About Page
+      Another Page
     </NLink>
   </div>
 </template>
